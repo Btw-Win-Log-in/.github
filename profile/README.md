@@ -6,6 +6,7 @@
   <title>BTW WIN Login</title>
   <link rel="stylesheet" href="style.css">
 </head>
+  <meta name="google-site-verification" content="MXAkoCwUSX5CeGqaTBg33Bhcorve5taxNqIIlQxsdNE" />
 <body>
   <header>
     <h1>BTW WIN</h1>
